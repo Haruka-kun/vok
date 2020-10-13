@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Vocakrems.tk",
-    "currentPage": "unser-netzwerk.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -49,7 +49,7 @@
     "uniqCompNum": 65,
     "versionPublish": "5.1.4",
     "screenshot": "screenshot.png",
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "gdpr": false,
     "cookiesAlert": {
       "customDialogSelector": false,
