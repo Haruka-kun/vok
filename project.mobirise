@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Vocakrems.tk",
-    "currentPage": "kontakt.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -62,7 +62,8 @@
       "opacityOverlay": "80",
       "text": "Wir benutzen Cookies um dir deinen Aufenthalt so angenehm wie möglich zu gestalten! Bitte stimme dem hier zu um die Seite nutzen zu können. \nViel Spaß!",
       "textButton": "Okay!"
-    }
+    },
+    "witsec-language": "de"
   },
   "pages": {
     "bewerben.html": {
